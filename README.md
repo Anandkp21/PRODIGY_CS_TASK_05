@@ -34,7 +34,7 @@ The Packet Sniffer GUI tool captures network packets on a specified network inte
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/packet-sniffer-gui.git
+   git clone https://github.com/Anandkp21/PRODIGY_CS_TASK_05.git
    ```
 
 2. **Navigate to the project directory:**
